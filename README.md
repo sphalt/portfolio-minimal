@@ -1,1 +1,1 @@
-# This is my personal website and data visualization portfolio built with [Gatsby.js](https://www.gatsbyjs.com/) using [Portfolio Minima](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal) 
+This is my data visualization portfolio built with [Gatsby.js](https://www.gatsbyjs.com/) using [Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal) 
