@@ -1,11 +1,11 @@
 body[data-theme='lightTheme'] {
-    --primary-color: #000000;
-    --secondary-color: #fff4d9;
+    --primary-color: #45535E;
+    --secondary-color: #D9BDC5;
     --tertiary-color: #f2f2f2;
-    --text-color: #000000;
+    --text-color: #45535E;
     --subtext-color: #555555;
-    --background-color: #ffffff;
-    --card-background-color: #ffffff;
+    --background-color: #EEF0F2;
+    --card-background-color: #f2f2f2;
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
