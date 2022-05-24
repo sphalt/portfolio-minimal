@@ -4,11 +4,34 @@
       "visible": true,
       "category": "R",
       "title": "Learning to Fly",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "description": "Interactive data visualization of airline flights in and out of Illinois, USA in 2017 created using R and Shiny",
       "tags": ["R", "Shiny", "DataViz"],
       "image": {
         "src": "../../images/learning-to-fly.png",
-        "alt": "Learning to Fly"
+        "alt": "Learning to Fly",
+        "linkTo":"https://sphalt.shinyapps.io/LearningToFly/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sphalt.shinyapps.io/LearningToFly/"
+        },
+        {
+          "type": "github",
+          "url": "https://vrevan2.github.io/LearningToFly/index.html"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "R",
+      "title": "You Spin me Round",
+      "description": "Interactive geospatial data visualization of Tornadoes in USA for years 1950 – 2016 created using R and Shiny",
+      "tags": ["R", "Shiny", "DataViz"],
+      "image": {
+        "src": "../../images/p3.png",
+        "alt": "You Spin me Round",
+        "linkTo":"https://sphalt.shinyapps.io/YouSpinMeRound//"
       },
       "links": [
         {
@@ -17,24 +40,7 @@
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "R",
-      "title": "You Spin me Round",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://vrevan2.github.io/YouSpinMeRound/"
         }
       ]
     },
@@ -42,11 +48,10 @@
       "visible": true,
       "category": "Tableau",
       "title": "Chocolate",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "Craft chocolate rating",
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Chocolate"
       },
       "links": [
         {
@@ -59,33 +64,32 @@
       "visible": true,
       "category": "D3.js",
       "title": "Opioid Abuse - Chicagoland",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "An exploratory visualization that aims to identify signs of opioid abuse among patients. The main objective of the visualization is to help doctors and medical analysts analyse doctor, patient, and prescriptions data to find patterns to distinguish genuine patients from opioid abusers and thus reduce opioid abuse.",
+      "tags": ["D3.js", "Dashboard"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/opabchi.png",
+        "alt": "Dashboard"
+      }
     },
     {
       "visible": true,
       "category": "D3.js",
       "title": "Englewood Data Hub",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "Explanatory visualization that allows policy makers to analyze social services, demographics and crimes data in Englewood.",
+      "tags": ["D3.js", "Dashboard"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/edh.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://youtu.be/_2-V45lHqkM"
       },
       "links": [
         {
+          "type": "external",
+          "url": "https://youtu.be/_2-V45lHqkM"
+        },
+        {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jaspreetKsohal/CS594-EDH"
         }
       ]
     },
@@ -93,16 +97,17 @@
       "visible": true,
       "category": "R",
       "title": "Don't go near the water",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "An interactive data visualization of the 1854 Broad Street Cholera outbreak in London that led to a deeper understanding of disease spread through water. This is modern take on the famous map by John Snow.",
+      "tags": ["R", "Shiny"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/Picture1.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://sphalt2.people.uic.edu/project1.html"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://sphalt.shinyapps.io/Project1/"
         }
       ]
     },
@@ -110,16 +115,16 @@
       "visible": true,
       "category": "Python",
       "title": "Github Repository Analyzer",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "Analyzed GitHub repositories to identify trends & patterns in version-control systems. We used the Understand tool and python to analyze the source code.",
+      "tags": ["Understand API", "Github"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/yancy-min-842ofHC6MaI-unsplash.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://github.com/sphalt/GitHub-Repository-Analyzer"
         }
       ]
     },
@@ -127,16 +132,16 @@
       "visible": true,
       "category": "Python",
       "title": "Jenkinsfile Analyzer",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "A project to analyze the nature of Jenkins pipelines across variety of open source projects",
+      "tags": ["Jenkinsfile", "CI-CD"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/yancy-min-842ofHC6MaI-unsplash.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/sphalt/Jenkinsfile-Analyzer"
         }
       ]
     },
@@ -144,18 +149,12 @@
       "visible": true,
       "category": "Unity Game Engine",
       "title": "PhysicsAR",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "description": "Augmented reality enabled Android application that aims to make learning physics fun and easy using augmented reality. The app includes six challenges based on various concepts in physics.",
+      "tags": ["Augmented Reality", "Android", "Unity"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/physicsar.jpg",
         "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+      }
     }
   ],
   "button": {
