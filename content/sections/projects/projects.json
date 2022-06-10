@@ -48,15 +48,15 @@
       "visible": true,
       "category": "Tableau",
       "title": "Chocolate",
-      "description": "Craft chocolate rating",
+      "description": "An interactive visualization of Flavors of Cacao - a project by the Manhattan Chocolate Society to review and rate various plain bar craft chocolates. This visualization is created using Tableau.",
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Chocolate"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://public.tableau.com/app/profile/sai1399/viz/Chocolate_16491332871190/Dashboard1?publish=yes"
         }
       ]
     },
